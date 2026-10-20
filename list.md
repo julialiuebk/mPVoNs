@@ -160,3 +160,4 @@
 - [新手贡献Good First Issue，优质新手任务设计](https://github.com/julialiuebk/mPVoNs/commit/06b3375ffc0b6e9cf8588adee909fbab8990f7b9)
 - [直播电商购物避坑直播下单如何维护消费者权益](https://github.com/julialiuebk/mPVoNs/commit/51276e6737d1775fcf58831d68ed040b4939a30f)
 - [向量数据库冷热分离，高频向量内存驻留策略](https://github.com/julialiuebk/mPVoNs/commit/b51fc1a54a464468a9ac3be78fd63acb07262a65)
+- [国产数据库向量能力，国产化替代落地坑点](https://github.com/julialiuebk/mPVoNs/commit/e94c461ed7ef041443f495840e8696df14046a46)
