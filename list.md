@@ -82,3 +82,4 @@
 - [视频批量提取sei补充增强信息，提取mp4 h264 sei私有数据](https://github.com/julialiuebk/mPVoNs/commit/8fe3f0a2a2e17947552cb3334f5bad77de3215c9)
 - [SSH密钥管理，多密钥多账号git配置踩坑](https://github.com/julialiuebk/mPVoNs/commit/12daafab1cb8827dabdaf0d17cab7751de464562)
 - [经济周期波动下，家庭需要建立合理的风险缓冲机制](https://github.com/julialiuebk/mPVoNs/commit/cab77f5c8d708e8f6828666c5184b1c78e3a5e77)
+- [图片格式批量互转脚本，JPG PNG WebP互相转换](https://github.com/julialiuebk/mPVoNs/commit/46b109067dc0cfe7195ef8d35bbae0b459cad984)
