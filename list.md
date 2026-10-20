@@ -99,3 +99,4 @@
 - [图片批量去除元数据，清除exif、icc全部图片元信息](https://github.com/julialiuebk/mPVoNs/commit/d263c8970a0bdc3f5272cf0149a24324311fe4d4)
 - [串口波特率自动探测工具，自动探测串口正确波特率](https://github.com/julialiuebk/mPVoNs/commit/b642336a2a4615e8c871c4bc6c3d5595b4a996ea)
 - [公益信托发展民间慈善迎来哪些新模式](https://github.com/julialiuebk/mPVoNs/commit/71aacf13df17c3259579342231e70b804464f7b6)
+- [AI监管合规落地，生成式AI内容备案实操难点](https://github.com/julialiuebk/mPVoNs/commit/3ba9a9ee8520443413c110998f4129bb9384eedc)
