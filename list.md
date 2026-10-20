@@ -100,3 +100,4 @@
 - [串口波特率自动探测工具，自动探测串口正确波特率](https://github.com/julialiuebk/mPVoNs/commit/b642336a2a4615e8c871c4bc6c3d5595b4a996ea)
 - [公益信托发展民间慈善迎来哪些新模式](https://github.com/julialiuebk/mPVoNs/commit/71aacf13df17c3259579342231e70b804464f7b6)
 - [AI监管合规落地，生成式AI内容备案实操难点](https://github.com/julialiuebk/mPVoNs/commit/3ba9a9ee8520443413c110998f4129bb9384eedc)
+- [markdown标题生成目录，根据md标题自动生成文档目录锚点](https://github.com/julialiuebk/mPVoNs/commit/b7fcb3d8f9fb6db62ad5bf3f9bf683a89da5efc4)
