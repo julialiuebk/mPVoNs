@@ -142,3 +142,4 @@
 - [Markdown 文档避免整页都是代码缺少文字叙述](https://github.com/julialiuebk/mPVoNs/commit/76d8a7f77ad0b4746ebf082baab832a51f62ba74)
 - [主权云平台建设，政企AI业务数据不出域实践](https://github.com/julialiuebk/mPVoNs/commit/71e5a2009169e77f578fcba85fdc19e92b510bfb)
 - [出行订阅模式兴起，从买车转向订阅用车](https://github.com/julialiuebk/mPVoNs/commit/7a7c2256f3443eba01c5759ee7332b52a4177b3f)
+- [以为躺平持有就行，通胀悄悄吞噬购买力](https://github.com/julialiuebk/mPVoNs/commit/7e74a35099ca6c1c03d819e6c611f11c6e6661f0)
