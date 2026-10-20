@@ -150,3 +150,4 @@
 - [线程堆栈打印 Demo 完整源码输出线程堆栈用于故障排查](https://github.com/julialiuebk/mPVoNs/commit/69e9ce27fb6d1bcb4c685b9455af90c18fecb455)
 - [基因检测平民化普通人要不要做基因筛查](https://github.com/julialiuebk/mPVoNs/commit/3feaca46fe0b5d8ef0991a2d7a1079580c8122de)
 - [请求失败指数退避重试开源源码 完整源码实现退避重试逻辑](https://github.com/julialiuebk/mPVoNs/commit/af81ecd3bc9afc892cd923febe54795141614df2)
+- [数字游民兴起，跨地域就业社保如何衔接](https://github.com/julialiuebk/mPVoNs/commit/e29100d783e9189d340986eca49445c89c5065c1)
