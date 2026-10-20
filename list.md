@@ -18,3 +18,4 @@
 - [联邦学习落地，原始数据不出域的模型训练模式](https://github.com/julialiuebk/mPVoNs/commit/c5f8198419633aa8bc25bd6088d9dd32f93ccf31)
 - [私有仓库贡献，不展示在个人贡献日历](https://github.com/julialiuebk/mPVoNs/commit/0199881dda802b9e2b76e4a0a6bf106d310be30c)
 - [轻量表格解析开源代码库 二次开发指南与读写转换样例](https://github.com/julialiuebk/mPVoNs/commit/2f22fecf7018a0d165751510fd139603f863d839)
+- [GitHub 开源项目扩充 FAQ 模块强化 SEO 收益](https://github.com/julialiuebk/mPVoNs/commit/5fea837d22cb18d5afa63f839a1d1f8b325a9c4b)
