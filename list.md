@@ -17,3 +17,4 @@
 - [文本分词词性标注 Demo 完整源码简易中文分词词性识别](https://github.com/julialiuebk/mPVoNs/commit/1bc9a565b671a629907af5b5e95b0a048d41a37a)
 - [联邦学习落地，原始数据不出域的模型训练模式](https://github.com/julialiuebk/mPVoNs/commit/c5f8198419633aa8bc25bd6088d9dd32f93ccf31)
 - [私有仓库贡献，不展示在个人贡献日历](https://github.com/julialiuebk/mPVoNs/commit/0199881dda802b9e2b76e4a0a6bf106d310be30c)
+- [轻量表格解析开源代码库 二次开发指南与读写转换样例](https://github.com/julialiuebk/mPVoNs/commit/2f22fecf7018a0d165751510fd139603f863d839)
