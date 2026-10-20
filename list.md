@@ -33,3 +33,4 @@
 - [模块化实战开发开源库 完整工程搭配问题排查实操指南](https://github.com/julialiuebk/mPVoNs/commit/f1dededd5233c289d75a589471971f3c20aac18d)
 - [数据库数据比对同步开源仓库 完整源码两库数据对比同步](https://github.com/julialiuebk/mPVoNs/commit/9616f3fc14e6f3ad3236c5917df9ce69ba12573c)
 - [github仓库签名提交规则检测，批量检测分支是否要求提交签名](https://github.com/julialiuebk/mPVoNs/commit/d875941c695279918dd029848c922043ab13b001)
+- [研发开发开源代码仓库 工程源码搭配容器化部署实操](https://github.com/julialiuebk/mPVoNs/commit/40f2e12f44ab5ae954a1feb37412ff693fe774b2)
