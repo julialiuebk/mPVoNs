@@ -74,3 +74,4 @@
 - [单身群体公共服务配套短板](https://github.com/julialiuebk/mPVoNs/commit/87479d19a66367a2fc23aa90156f56a7a056ede4)
 - [静态开源站点禁止爬虫抓取测试演示页面](https://github.com/julialiuebk/mPVoNs/commit/6197789b59eb568998e0b727a88b67ba8d75e8d3)
 - [Robots 规则校验 Demo 完整源码校验链接是否允许爬取](https://github.com/julialiuebk/mPVoNs/commit/93f90246265ef2a0eef153a8d183255bb1832298)
+- [AI降本增效，裁员潮会悄悄蔓延](https://github.com/julialiuebk/mPVoNs/commit/49a1780f9d17fc26e6b30799dd1659290654425e)
