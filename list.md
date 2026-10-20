@@ -106,3 +106,4 @@
 - [静态文档不要出现过多广告推广类内容](https://github.com/julialiuebk/mPVoNs/commit/7b9188b393514165548e42d521d54872106fca59)
 - [百度抓取页面出现乱码多维度排查思路](https://github.com/julialiuebk/mPVoNs/commit/3d9f49394b1fba7da3994b7901583d1b3f5fbcf5)
 - [产业升级需要时间，不能期待短期快速见效](https://github.com/julialiuebk/mPVoNs/commit/20e3b06fcc5944083ccfe7376585bde416b7c274)
+- [黄金持续走高，现在进场是接盘吗](https://github.com/julialiuebk/mPVoNs/commit/9dc6574b1db042bb56e7eb477e69bafed63d0072)
