@@ -10,3 +10,4 @@
 - [现房销售试点扩大，降低买房烂尾风险](https://github.com/julialiuebk/mPVoNs/commit/5769c93c57842c820a22eadf89a409ce3bc4c379)
 - [开源技术手册页面层级设置适配百度爬虫](https://github.com/julialiuebk/mPVoNs/commit/177dd0fc3de40a52e06ecb5489080486898f3907)
 - [户籍制度持续放宽，公共服务与户口逐步脱钩](https://github.com/julialiuebk/mPVoNs/commit/2946f8819fc561118639701e74b16f3065054eba)
+- [现房销售逐步推广，烂尾风险进一步降低](https://github.com/julialiuebk/mPVoNs/commit/41eb04375b10dd8b294d7b8dc3bc409557c54bd6)
