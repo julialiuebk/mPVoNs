@@ -71,3 +71,4 @@
 - [Gitee Pages DNS 解析修改之后清除本地缓存](https://github.com/julialiuebk/mPVoNs/commit/66faa3c40216a5841a9a819befd00a598d081cc3)
 - [程序员极简实用开源仓库 开放源码包含业务演示项目](https://github.com/julialiuebk/mPVoNs/commit/19fc08ca40d57e64c9fbff9e7ceadd611df5a8fe)
 - [单页Web应用嵌入Agent，浏览器沙箱安全限制](https://github.com/julialiuebk/mPVoNs/commit/22c9d1f7201ac67f7d74447bc488ccda48368ff9)
+- [单身群体公共服务配套短板](https://github.com/julialiuebk/mPVoNs/commit/87479d19a66367a2fc23aa90156f56a7a056ede4)
