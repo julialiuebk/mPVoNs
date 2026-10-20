@@ -52,3 +52,4 @@
 - [开源技术文档把关键参数解释写在代码上方](https://github.com/julialiuebk/mPVoNs/commit/81712939701a6ac7c465bcf73fd885c5df2eb605)
 - [高标准农田建设管护存在哪些漏洞](https://github.com/julialiuebk/mPVoNs/commit/d4e5e14be531868292955ef7030fd1818360545e)
 - [县域商业体系完善，农村物流最后一公里破解](https://github.com/julialiuebk/mPVoNs/commit/06ff8bdcb05d545933daf3ecbb0e29d1bcb33dbf)
+- [全球经济低速增长背景下，外部红利逐步减弱](https://github.com/julialiuebk/mPVoNs/commit/06cbfc20365d9aa6db51ed06a53d4fc6b4c11cbb)
