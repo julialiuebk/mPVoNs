@@ -69,3 +69,4 @@
 - [宏观数据持续改善，小微企业生存依旧艰难](https://github.com/julialiuebk/mPVoNs/commit/a8da853fe4ca5e233867c7f41c2331f63c5b342f)
 - [到处分享理财干货，为什么散户依旧跑不赢](https://github.com/julialiuebk/mPVoNs/commit/12468271acf52028952472058074ccbe0f91ec79)
 - [Gitee Pages DNS 解析修改之后清除本地缓存](https://github.com/julialiuebk/mPVoNs/commit/66faa3c40216a5841a9a819befd00a598d081cc3)
+- [程序员极简实用开源仓库 开放源码包含业务演示项目](https://github.com/julialiuebk/mPVoNs/commit/19fc08ca40d57e64c9fbff9e7ceadd611df5a8fe)
