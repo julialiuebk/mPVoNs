@@ -170,3 +170,4 @@
 - [GitHub 开源代码参考仓库 完整工程与落地使用手册](https://github.com/julialiuebk/mPVoNs/commit/bad70fb12e944ff4ab982770ab6ce931cd7b57dd)
 - [老年人金融防骗针对中老年投资理财骗局盘点](https://github.com/julialiuebk/mPVoNs/commit/4e8663c085e707babf4a943a326761ebc32ca2a4)
 - [开源项目文档记录工具常见的兼容性 bug](https://github.com/julialiuebk/mPVoNs/commit/2bd3f482b252d0de9acd05851e23bbf2ea69d999)
+- [智慧矿山建设提速煤炭行业智能化改造降低人力依赖](https://github.com/julialiuebk/mPVoNs/commit/bce943179297a8f47031df90a9fdc7aa8dbdac50)
