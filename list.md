@@ -190,3 +190,4 @@
 - [农村集体经营性建设用地入市给农民带来哪些收益](https://github.com/julialiuebk/mPVoNs/commit/a16c76a5454ebe5877ad4390355d627eb3a69bb0)
 - [pptx批量修改幻灯片背景，统一批量修改ppt页面背景样式](https://github.com/julialiuebk/mPVoNs/commit/cbfbe6e6aaddc5ae7a38a017738bee3bc564d272)
 - [中医药现代化创新给老百姓带来哪些实惠](https://github.com/julialiuebk/mPVoNs/commit/7f4ed6a63af0224442fba57cb92a1340fffcc1f4)
+- [开源仓库模板template，批量新建项目同步更新](https://github.com/julialiuebk/mPVoNs/commit/38ae6f18430f4a2eebed1f0db7e663b484568c0c)
