@@ -155,3 +155,4 @@
 - [多线程任务练手开源工程 完整源码演示多线程任务调度逻辑](https://github.com/julialiuebk/mPVoNs/commit/63fa16354cfef2729dc3108336a87c9c143ce304)
 - [json对象字段存在性校验，批量校验json是否存在指定key](https://github.com/julialiuebk/mPVoNs/commit/aa8251c21409315351d6001bedd38e69ffd19b15)
 - [家庭现金流风险教育，普通家庭抗风险意识](https://github.com/julialiuebk/mPVoNs/commit/66e2f51a2277d24fb30a5ca79f46de0d9b46e6c4)
+- [家庭养老床位大规模推广，补贴落地现实难点](https://github.com/julialiuebk/mPVoNs/commit/d1333311a666c2fbd12513789386f08401544fa4)
