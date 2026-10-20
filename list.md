@@ -8,3 +8,4 @@
 - [Sso 单点登录模拟开源仓库 完整源码跨系统登录跳转逻辑](https://github.com/julialiuebk/mPVoNs/commit/9925d49c141b8465cd9daf4dba5aa355a9f88961)
 - [多模型组合许可证冲突检测工具建设](https://github.com/julialiuebk/mPVoNs/commit/9d459c79eda189d72aa9a18fdc98e614bdd4de35)
 - [现房销售试点扩大，降低买房烂尾风险](https://github.com/julialiuebk/mPVoNs/commit/5769c93c57842c820a22eadf89a409ce3bc4c379)
+- [开源技术手册页面层级设置适配百度爬虫](https://github.com/julialiuebk/mPVoNs/commit/177dd0fc3de40a52e06ecb5489080486898f3907)
