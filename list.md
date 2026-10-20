@@ -30,3 +30,4 @@
 - [开源项目文档补充数据备份相关实操说明](https://github.com/julialiuebk/mPVoNs/commit/55c78e72e09816c20613da8aff2c3c9aafb2cd98)
 - [带薪休假制度刚性落地，企业执行现实难点](https://github.com/julialiuebk/mPVoNs/commit/e5ca064452731e7e00cdd6cb130c495070b0c2f9)
 - [工业金属需求预期回暖铜铝等基本金属后市运行逻辑](https://github.com/julialiuebk/mPVoNs/commit/0713d8b2d685979b197cd113be0f54b6a9aebf1d)
+- [模块化实战开发开源库 完整工程搭配问题排查实操指南](https://github.com/julialiuebk/mPVoNs/commit/f1dededd5233c289d75a589471971f3c20aac18d)
