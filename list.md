@@ -175,3 +175,4 @@
 - [RNA蛋白质工业转化，生物序列大模型落地壁垒](https://github.com/julialiuebk/mPVoNs/commit/f372a4303f75bf144a680069e1a21350a5733268)
 - [GitHub仓库CODEOWNERS有效性校验工具](https://github.com/julialiuebk/mPVoNs/commit/58f6fa8f3afe15c307d609022c109891db6333ca)
 - [青年慢就业现象，躺平与择业现实困境](https://github.com/julialiuebk/mPVoNs/commit/c0bb16e72b646dfe018e41ea18cbfda7faa262e7)
+- [简易权限控制开源 Demo 完整源码实现角色权限判断逻辑](https://github.com/julialiuebk/mPVoNs/commit/4911390afb2c78e3c6757316594a9dc7617acba0)
