@@ -123,3 +123,4 @@
 - [前端轻量化开源组件库 开源源码搭配快速接入集成教程](https://github.com/julialiuebk/mPVoNs/commit/199af9efe996160a3ae9ab42309ceadb1144c1d7)
 - [依赖劫持Dependency‑hijacking，废弃包名接管](https://github.com/julialiuebk/mPVoNs/commit/5bb6b0b08cb423951213fa7f314cb6e55c4ed640)
 - [Dependabot分组更新依赖，减少大量零散PR](https://github.com/julialiuebk/mPVoNs/commit/18c4ddd723e4f3bcca5c577b776df58771c8d38e)
+- [docx文档图片压缩降分辨率，批量降低word内嵌图片分辨率](https://github.com/julialiuebk/mPVoNs/commit/f4f30ecd1b9974abbaa2037cda3eea9218136618)
