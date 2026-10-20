@@ -5,3 +5,4 @@
 - [Skill组件恶意输入校验，第三方工具输入净化](https://github.com/julialiuebk/mPVoNs/commit/eab8986dd6d37779cb76142b1aaacb121907d362)
 - [目录文件校验对比报告，对比源目标目录输出哈希校验差异报告](https://github.com/julialiuebk/mPVoNs/commit/4dd8b108893cb1fcecfc05895fab744cfc190433)
 - [行业的周期性，决定没有永远高景气的赛道](https://github.com/julialiuebk/mPVoNs/commit/e41375e13cecf3db7f8c0193677f782efbffad95)
+- [Sso 单点登录模拟开源仓库 完整源码跨系统登录跳转逻辑](https://github.com/julialiuebk/mPVoNs/commit/9925d49c141b8465cd9daf4dba5aa355a9f88961)
