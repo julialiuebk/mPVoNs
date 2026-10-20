@@ -149,3 +149,4 @@
 - [AI红队自动化流水线，批量生成多模态对抗用例](https://github.com/julialiuebk/mPVoNs/commit/dc7ebb2753f01008e69b7d0841c13fedc4479b0a)
 - [线程堆栈打印 Demo 完整源码输出线程堆栈用于故障排查](https://github.com/julialiuebk/mPVoNs/commit/69e9ce27fb6d1bcb4c685b9455af90c18fecb455)
 - [基因检测平民化普通人要不要做基因筛查](https://github.com/julialiuebk/mPVoNs/commit/3feaca46fe0b5d8ef0991a2d7a1079580c8122de)
+- [请求失败指数退避重试开源源码 完整源码实现退避重试逻辑](https://github.com/julialiuebk/mPVoNs/commit/af81ecd3bc9afc892cd923febe54795141614df2)
