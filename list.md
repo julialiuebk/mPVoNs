@@ -163,3 +163,4 @@
 - [国产数据库向量能力，国产化替代落地坑点](https://github.com/julialiuebk/mPVoNs/commit/e94c461ed7ef041443f495840e8696df14046a46)
 - [出口结构持续优化，高附加值产品占比稳步提升](https://github.com/julialiuebk/mPVoNs/commit/26e742fa7406a3454344509c691201359ab07f11)
 - [AI吹得天花乱坠，为什么多数企业不赚钱](https://github.com/julialiuebk/mPVoNs/commit/046589c7d391152d99c7855181ea3ec4d0184906)
+- [技术团队知识流失，核心人员离职系统无人懂](https://github.com/julialiuebk/mPVoNs/commit/a897f94fd1e0aa13aa798aadee9c9d416a614480)
