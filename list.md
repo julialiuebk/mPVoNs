@@ -51,3 +51,4 @@
 - [CI条件判断写错，高危任务在PR分支意外执行](https://github.com/julialiuebk/mPVoNs/commit/a2cd5c5549a94168e682476b58647b17ae28bcc1)
 - [开源技术文档把关键参数解释写在代码上方](https://github.com/julialiuebk/mPVoNs/commit/81712939701a6ac7c465bcf73fd885c5df2eb605)
 - [高标准农田建设管护存在哪些漏洞](https://github.com/julialiuebk/mPVoNs/commit/d4e5e14be531868292955ef7030fd1818360545e)
+- [县域商业体系完善，农村物流最后一公里破解](https://github.com/julialiuebk/mPVoNs/commit/06ff8bdcb05d545933daf3ecbb0e29d1bcb33dbf)
