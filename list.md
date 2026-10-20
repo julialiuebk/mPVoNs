@@ -146,3 +146,4 @@
 - [城乡居民养老保险待遇差距缩小路径](https://github.com/julialiuebk/mPVoNs/commit/34fddf6bed8d92ad8f2087c5a5ca09835f19b6ff)
 - [民间资本投建体育场馆社会力量参与体育产业建设](https://github.com/julialiuebk/mPVoNs/commit/35c2ccc35431f328411eae08aebd17059a0b9396)
 - [开源实战技术合集 全套源码附带调试优化完整指南](https://github.com/julialiuebk/mPVoNs/commit/b1364147b7d377a1fc0dfdca0b4a601dcaa94a0e)
+- [AI红队自动化流水线，批量生成多模态对抗用例](https://github.com/julialiuebk/mPVoNs/commit/dc7ebb2753f01008e69b7d0841c13fedc4479b0a)
