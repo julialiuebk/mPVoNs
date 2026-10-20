@@ -29,3 +29,4 @@
 - [延时任务队列开源 Demo 完整源码实现延迟任务调度执行](https://github.com/julialiuebk/mPVoNs/commit/7b8c2a0de62cc09343c3e828a7355fb127a8e111)
 - [开源项目文档补充数据备份相关实操说明](https://github.com/julialiuebk/mPVoNs/commit/55c78e72e09816c20613da8aff2c3c9aafb2cd98)
 - [带薪休假制度刚性落地，企业执行现实难点](https://github.com/julialiuebk/mPVoNs/commit/e5ca064452731e7e00cdd6cb130c495070b0c2f9)
+- [工业金属需求预期回暖铜铝等基本金属后市运行逻辑](https://github.com/julialiuebk/mPVoNs/commit/0713d8b2d685979b197cd113be0f54b6a9aebf1d)
