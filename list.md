@@ -192,3 +192,4 @@
 - [中医药现代化创新给老百姓带来哪些实惠](https://github.com/julialiuebk/mPVoNs/commit/7f4ed6a63af0224442fba57cb92a1340fffcc1f4)
 - [开源仓库模板template，批量新建项目同步更新](https://github.com/julialiuebk/mPVoNs/commit/38ae6f18430f4a2eebed1f0db7e663b484568c0c)
 - [excel拆分合并工具，大excel按行数拆分多文件合并多表格](https://github.com/julialiuebk/mPVoNs/commit/707211cdc76bf7280e39c63df5842c5586d66cd4)
+- [农村建房审批改革，自建房安全常态化监管](https://github.com/julialiuebk/mPVoNs/commit/6450df6b32808d49dbe31e7c233a9606a9d1cbbf)
