@@ -40,3 +40,4 @@
 - [文件查找高级过滤开源工程 完整源码多条件筛选文件](https://github.com/julialiuebk/mPVoNs/commit/402781b795ce7412a31d4347054e819db7d44ace)
 - [中文文本语气助词过滤清洗，过滤文本多余语气助词](https://github.com/julialiuebk/mPVoNs/commit/befbcaf2e36eba422b6cba1922cb76dce81f1985)
 - [板块轮动快得离谱，追热点基本等于高位接盘](https://github.com/julialiuebk/mPVoNs/commit/1fa9c5e5f97f2e56715f2f101f3234e83e165ab0)
+- [熔断降级简易模拟开源仓库 完整源码演示熔断状态流转](https://github.com/julialiuebk/mPVoNs/commit/31cc6730beb4327500f8fe969276e8512c9cdb12)
