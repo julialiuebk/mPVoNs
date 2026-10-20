@@ -153,3 +153,4 @@
 - [数字游民兴起，跨地域就业社保如何衔接](https://github.com/julialiuebk/mPVoNs/commit/e29100d783e9189d340986eca49445c89c5065c1)
 - [副业暴富案例满天飞，赚钱的都是卖课的](https://github.com/julialiuebk/mPVoNs/commit/ab3746d53eb653516b81e7fc7f8415ad26c624c9)
 - [多线程任务练手开源工程 完整源码演示多线程任务调度逻辑](https://github.com/julialiuebk/mPVoNs/commit/63fa16354cfef2729dc3108336a87c9c143ce304)
+- [json对象字段存在性校验，批量校验json是否存在指定key](https://github.com/julialiuebk/mPVoNs/commit/aa8251c21409315351d6001bedd38e69ffd19b15)
