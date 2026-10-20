@@ -144,3 +144,4 @@
 - [出行订阅模式兴起，从买车转向订阅用车](https://github.com/julialiuebk/mPVoNs/commit/7a7c2256f3443eba01c5759ee7332b52a4177b3f)
 - [以为躺平持有就行，通胀悄悄吞噬购买力](https://github.com/julialiuebk/mPVoNs/commit/7e74a35099ca6c1c03d819e6c611f11c6e6661f0)
 - [城乡居民养老保险待遇差距缩小路径](https://github.com/julialiuebk/mPVoNs/commit/34fddf6bed8d92ad8f2087c5a5ca09835f19b6ff)
+- [民间资本投建体育场馆社会力量参与体育产业建设](https://github.com/julialiuebk/mPVoNs/commit/35c2ccc35431f328411eae08aebd17059a0b9396)
