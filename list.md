@@ -41,3 +41,4 @@
 - [中文文本语气助词过滤清洗，过滤文本多余语气助词](https://github.com/julialiuebk/mPVoNs/commit/befbcaf2e36eba422b6cba1922cb76dce81f1985)
 - [板块轮动快得离谱，追热点基本等于高位接盘](https://github.com/julialiuebk/mPVoNs/commit/1fa9c5e5f97f2e56715f2f101f3234e83e165ab0)
 - [熔断降级简易模拟开源仓库 完整源码演示熔断状态流转](https://github.com/julialiuebk/mPVoNs/commit/31cc6730beb4327500f8fe969276e8512c9cdb12)
+- [气候旅居养老兴起，异地养老配套政策完善](https://github.com/julialiuebk/mPVoNs/commit/58f507d6d4c05f539ccba14962b2aadf731ae2ec)
