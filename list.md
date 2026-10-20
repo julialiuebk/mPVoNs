@@ -67,3 +67,4 @@
 - [面向后端工程师开源资源 完整实现附带本地踩坑处理文档](https://github.com/julialiuebk/mPVoNs/commit/54d4cbce02bef6fd1b92e58ab443705811c1ae98)
 - [dns域名批量解析工具，批量域名解析输出ip记录](https://github.com/julialiuebk/mPVoNs/commit/181eb38852f9f8efb10d1e422a8cb3951d33d8c9)
 - [宏观数据持续改善，小微企业生存依旧艰难](https://github.com/julialiuebk/mPVoNs/commit/a8da853fe4ca5e233867c7f41c2331f63c5b342f)
+- [到处分享理财干货，为什么散户依旧跑不赢](https://github.com/julialiuebk/mPVoNs/commit/12468271acf52028952472058074ccbe0f91ec79)
