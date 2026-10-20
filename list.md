@@ -26,3 +26,4 @@
 - [数据库事务隔离级别源码 完整源码四大隔离级别演示](https://github.com/julialiuebk/mPVoNs/commit/375e92ec3a2b0f1458ff79285ea15e9683b38880)
 - [企业降本增效，很多时候会直接传导到用工层面](https://github.com/julialiuebk/mPVoNs/commit/27b44c42ad091fb8e45b9cb6d792cb177c22dbb7)
 - [保障性住房租买转换，租购制度灵活衔接](https://github.com/julialiuebk/mPVoNs/commit/096acbf3e746f380d8e7ba0e242be3969a456dbf)
+- [延时任务队列开源 Demo 完整源码实现延迟任务调度执行](https://github.com/julialiuebk/mPVoNs/commit/7b8c2a0de62cc09343c3e828a7355fb127a8e111)
