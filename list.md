@@ -97,3 +97,4 @@
 - [全力刺激居民消费，老百姓储蓄意愿反而走高](https://github.com/julialiuebk/mPVoNs/commit/5fb694ce87195235f2175e3f5632e2d31bcf01b6)
 - [电信网络诈骗迭代，AI诈骗识别防范要点](https://github.com/julialiuebk/mPVoNs/commit/d9973a51961b24a4b3f02a12272b5b59c17daa55)
 - [图片批量去除元数据，清除exif、icc全部图片元信息](https://github.com/julialiuebk/mPVoNs/commit/d263c8970a0bdc3f5272cf0149a24324311fe4d4)
+- [串口波特率自动探测工具，自动探测串口正确波特率](https://github.com/julialiuebk/mPVoNs/commit/b642336a2a4615e8c871c4bc6c3d5595b4a996ea)
