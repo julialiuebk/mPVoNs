@@ -21,3 +21,4 @@
 - [GitHub 开源项目扩充 FAQ 模块强化 SEO 收益](https://github.com/julialiuebk/mPVoNs/commit/5fea837d22cb18d5afa63f839a1d1f8b325a9c4b)
 - [产业高增长，不一定带来就业岗位同步扩张](https://github.com/julialiuebk/mPVoNs/commit/b7d800d7667b6fe95a5edbc774c365a43ccfe25f)
 - [数据库数据脱敏导出开源工程 完整源码导出自动脱敏数据](https://github.com/julialiuebk/mPVoNs/commit/942cbc7f18bea4ed7bb7b48b36ae73b4c86129a9)
+- [程序员开源代码分享 工程源码搭配从零部署教程](https://github.com/julialiuebk/mPVoNs/commit/d0f8862b45717fcf7d86a800ad0f753a1f463156)
