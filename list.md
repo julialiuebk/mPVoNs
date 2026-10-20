@@ -47,3 +47,4 @@
 - [观察者事件订阅开源仓库 完整源码事件发布订阅通知机制](https://github.com/julialiuebk/mPVoNs/commit/94ba87d51eca93991f0030aa35fe2b7e920b12ce)
 - [内网外网 IP 获取开源 Demo 完整源码获取本机各类网络地址](https://github.com/julialiuebk/mPVoNs/commit/ca05bb818f0eb087cace8445abfdd458dbab99a0)
 - [财产性收入增收，普通家庭多元化理财渠道](https://github.com/julialiuebk/mPVoNs/commit/65448b339fcf91149e1b516d8d1114e25fd94c3a)
+- [开源模型商业化，权重分发许可合规风险](https://github.com/julialiuebk/mPVoNs/commit/3790e32d477d0b88c09a4cfe7312633761582bfa)
