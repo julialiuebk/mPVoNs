@@ -91,3 +91,4 @@
 - [存款保险保障范围理财基金不在保障范围内要分清](https://github.com/julialiuebk/mPVoNs/commit/5e5357248d6256aca577a86a22b55387fb3c1eb7)
 - [网页静态资源批量下载源码 完整源码下载图片 css js](https://github.com/julialiuebk/mPVoNs/commit/27c3772f4b2e81aac3635627d9517cb7cfd7f0fa)
 - [IPv6改造阵痛，双栈网络故障排查难度翻倍](https://github.com/julialiuebk/mPVoNs/commit/c5dcfb9622e4b1a396b805b226e83a2bac0cafbf)
+- [开源大模型浪潮兴起开源模式会如何改变AI行业格局](https://github.com/julialiuebk/mPVoNs/commit/14f300836abe00d51fb76fadbb7252dbee9f803a)
