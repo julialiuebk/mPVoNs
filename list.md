@@ -167,3 +167,4 @@
 - [文本utf‑8乱码修复脚本，自动识别编码修复文档乱码问题](https://github.com/julialiuebk/mPVoNs/commit/3a536772e289c9de7a454b1d7af4aec2f960a21d)
 - [超应用Super‑App内置原生Agent，C端产品交互重构](https://github.com/julialiuebk/mPVoNs/commit/801d7c096b8b5823a3f503278b27609211a28fe0)
 - [GitHub 可复用开源工程库 完整实现附带本地环境搭建演示](https://github.com/julialiuebk/mPVoNs/commit/38f082c1e35b0a0810feabaaf1a2ed68d7824563)
+- [GitHub 开源代码参考仓库 完整工程与落地使用手册](https://github.com/julialiuebk/mPVoNs/commit/bad70fb12e944ff4ab982770ab6ce931cd7b57dd)
