@@ -53,3 +53,4 @@
 - [高标准农田建设管护存在哪些漏洞](https://github.com/julialiuebk/mPVoNs/commit/d4e5e14be531868292955ef7030fd1818360545e)
 - [县域商业体系完善，农村物流最后一公里破解](https://github.com/julialiuebk/mPVoNs/commit/06ff8bdcb05d545933daf3ecbb0e29d1bcb33dbf)
 - [全球经济低速增长背景下，外部红利逐步减弱](https://github.com/julialiuebk/mPVoNs/commit/06cbfc20365d9aa6db51ed06a53d4fc6b4c11cbb)
+- [音频音频采样位深转换，批量转换音频16bit 24bit位深](https://github.com/julialiuebk/mPVoNs/commit/c0eded1a179382d838c5330a5392eb3119508744)
