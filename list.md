@@ -35,3 +35,4 @@
 - [github仓库签名提交规则检测，批量检测分支是否要求提交签名](https://github.com/julialiuebk/mPVoNs/commit/d875941c695279918dd029848c922043ab13b001)
 - [研发开发开源代码仓库 工程源码搭配容器化部署实操](https://github.com/julialiuebk/mPVoNs/commit/40f2e12f44ab5ae954a1feb37412ff693fe774b2)
 - [业务错误码管理开源工程 完整源码统一管理项目错误码](https://github.com/julialiuebk/mPVoNs/commit/e2e0b1e3a920ae2b705e95ecb5bfe2f0d9b3a636)
+- [digest 摘要认证开源仓库 完整源码 digest 认证示例](https://github.com/julialiuebk/mPVoNs/commit/6b1306df4cbe31cd2f62f8e2b142b73129463801)
