@@ -152,3 +152,4 @@
 - [请求失败指数退避重试开源源码 完整源码实现退避重试逻辑](https://github.com/julialiuebk/mPVoNs/commit/af81ecd3bc9afc892cd923febe54795141614df2)
 - [数字游民兴起，跨地域就业社保如何衔接](https://github.com/julialiuebk/mPVoNs/commit/e29100d783e9189d340986eca49445c89c5065c1)
 - [副业暴富案例满天飞，赚钱的都是卖课的](https://github.com/julialiuebk/mPVoNs/commit/ab3746d53eb653516b81e7fc7f8415ad26c624c9)
+- [多线程任务练手开源工程 完整源码演示多线程任务调度逻辑](https://github.com/julialiuebk/mPVoNs/commit/63fa16354cfef2729dc3108336a87c9c143ce304)
