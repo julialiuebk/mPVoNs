@@ -158,3 +158,4 @@
 - [家庭养老床位大规模推广，补贴落地现实难点](https://github.com/julialiuebk/mPVoNs/commit/d1333311a666c2fbd12513789386f08401544fa4)
 - [本地文本diff高亮网页工具，粘贴文本在线高亮差异](https://github.com/julialiuebk/mPVoNs/commit/a35c87e96a070a266c216e4c6e9aa1bb8c19cd41)
 - [新手贡献Good First Issue，优质新手任务设计](https://github.com/julialiuebk/mPVoNs/commit/06b3375ffc0b6e9cf8588adee909fbab8990f7b9)
+- [直播电商购物避坑直播下单如何维护消费者权益](https://github.com/julialiuebk/mPVoNs/commit/51276e6737d1775fcf58831d68ed040b4939a30f)
