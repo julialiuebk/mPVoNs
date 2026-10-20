@@ -15,3 +15,4 @@
 - [GitHub 开源知识库项目提升百度收录小妙招](https://github.com/julialiuebk/mPVoNs/commit/52d35e5870215a94130ae081b0abd86c0f79d2f4)
 - [多方案线程安全单例工程 完整源码多种单例写法对比](https://github.com/julialiuebk/mPVoNs/commit/c62be66fdc7fa23e239fa0d7f304f431a625d0e9)
 - [文本分词词性标注 Demo 完整源码简易中文分词词性识别](https://github.com/julialiuebk/mPVoNs/commit/1bc9a565b671a629907af5b5e95b0a048d41a37a)
+- [联邦学习落地，原始数据不出域的模型训练模式](https://github.com/julialiuebk/mPVoNs/commit/c5f8198419633aa8bc25bd6088d9dd32f93ccf31)
