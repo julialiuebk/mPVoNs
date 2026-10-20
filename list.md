@@ -113,3 +113,4 @@
 - [开源脚本实战项目库 源码资源含本地环境适配排错教程](https://github.com/julialiuebk/mPVoNs/commit/a118bc040fabc6200fd2508d07edcf540c586f12)
 - [开源SBOM导出，GitHub原生SBOM信息不全](https://github.com/julialiuebk/mPVoNs/commit/4073ed0820098600a8217f18b6279bfd6a4e8b5f)
 - [存款搬家趋势延续银行存款持续流向基金理财等产品](https://github.com/julialiuebk/mPVoNs/commit/4e53dc26a3a6e23d94445c5bedccd0aa7be4674e)
+- [GitHub仓库Action缓存清理批量处理脚本](https://github.com/julialiuebk/mPVoNs/commit/16356c1a46c71bd3787ce4a04697094e9ec5cd3c)
