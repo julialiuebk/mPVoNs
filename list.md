@@ -87,3 +87,4 @@
 - [轻量模块化开源仓库 完整实现附带从零搭建部署教程](https://github.com/julialiuebk/mPVoNs/commit/ca1c936e6b5b54c0fc4e2817982c857e9ea0f292)
 - [居民存款持续暴涨，不是富足而是没有安全感](https://github.com/julialiuebk/mPVoNs/commit/3dcc5a49044d2a69a0e73b1dc0a5199a778eb324)
 - [开源技术文档补充虚拟机容器环境适配教程](https://github.com/julialiuebk/mPVoNs/commit/f5a1efdc3874d0fa7ddc853f2ca2c48b23845444)
+- [私募股权市场退出回暖IPO与并购成为主要退出渠道](https://github.com/julialiuebk/mPVoNs/commit/b4362077574f93e6a8bc7614e5ab946a72fe07e9)
