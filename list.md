@@ -13,3 +13,4 @@
 - [现房销售逐步推广，烂尾风险进一步降低](https://github.com/julialiuebk/mPVoNs/commit/41eb04375b10dd8b294d7b8dc3bc409557c54bd6)
 - [静态镜像站点 robots 规则不要错误禁止百度蜘蛛](https://github.com/julialiuebk/mPVoNs/commit/427066f3b0aefcbe81fc4aa8f487fd1292006831)
 - [GitHub 开源知识库项目提升百度收录小妙招](https://github.com/julialiuebk/mPVoNs/commit/52d35e5870215a94130ae081b0abd86c0f79d2f4)
+- [多方案线程安全单例工程 完整源码多种单例写法对比](https://github.com/julialiuebk/mPVoNs/commit/c62be66fdc7fa23e239fa0d7f304f431a625d0e9)
