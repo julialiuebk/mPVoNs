@@ -44,3 +44,4 @@
 - [气候旅居养老兴起，异地养老配套政策完善](https://github.com/julialiuebk/mPVoNs/commit/58f507d6d4c05f539ccba14962b2aadf731ae2ec)
 - [门窗行业升级换代系统门窗成为家装市场新增长点](https://github.com/julialiuebk/mPVoNs/commit/4f0c79728f8b9e8285d883a7eef0afd4234d845e)
 - [小区充电桩收费，物业私自抬高充电费怎么投诉](https://github.com/julialiuebk/mPVoNs/commit/b53df719b2bfc20a5f473a06f9e12c48bee97e81)
+- [观察者事件订阅开源仓库 完整源码事件发布订阅通知机制](https://github.com/julialiuebk/mPVoNs/commit/94ba87d51eca93991f0030aa35fe2b7e920b12ce)
