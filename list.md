@@ -165,3 +165,4 @@
 - [AI吹得天花乱坠，为什么多数企业不赚钱](https://github.com/julialiuebk/mPVoNs/commit/046589c7d391152d99c7855181ea3ec4d0184906)
 - [技术团队知识流失，核心人员离职系统无人懂](https://github.com/julialiuebk/mPVoNs/commit/a897f94fd1e0aa13aa798aadee9c9d416a614480)
 - [文本utf‑8乱码修复脚本，自动识别编码修复文档乱码问题](https://github.com/julialiuebk/mPVoNs/commit/3a536772e289c9de7a454b1d7af4aec2f960a21d)
+- [超应用Super‑App内置原生Agent，C端产品交互重构](https://github.com/julialiuebk/mPVoNs/commit/801d7c096b8b5823a3f503278b27609211a28fe0)
