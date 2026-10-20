@@ -83,3 +83,4 @@
 - [SSH密钥管理，多密钥多账号git配置踩坑](https://github.com/julialiuebk/mPVoNs/commit/12daafab1cb8827dabdaf0d17cab7751de464562)
 - [经济周期波动下，家庭需要建立合理的风险缓冲机制](https://github.com/julialiuebk/mPVoNs/commit/cab77f5c8d708e8f6828666c5184b1c78e3a5e77)
 - [图片格式批量互转脚本，JPG PNG WebP互相转换](https://github.com/julialiuebk/mPVoNs/commit/46b109067dc0cfe7195ef8d35bbae0b459cad984)
+- [生成式AI版权困局，训练数据、输出内容归属争议](https://github.com/julialiuebk/mPVoNs/commit/4f14395909536f30a4269b45859ba4dce18bf573)
