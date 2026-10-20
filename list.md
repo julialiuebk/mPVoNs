@@ -174,3 +174,4 @@
 - [消息队列内存实现 Demo 完整源码内存消息队列完整逻辑](https://github.com/julialiuebk/mPVoNs/commit/22ffd1bf3f66f3eec3cec29ba0e6f10009428d31)
 - [RNA蛋白质工业转化，生物序列大模型落地壁垒](https://github.com/julialiuebk/mPVoNs/commit/f372a4303f75bf144a680069e1a21350a5733268)
 - [GitHub仓库CODEOWNERS有效性校验工具](https://github.com/julialiuebk/mPVoNs/commit/58f6fa8f3afe15c307d609022c109891db6333ca)
+- [青年慢就业现象，躺平与择业现实困境](https://github.com/julialiuebk/mPVoNs/commit/c0bb16e72b646dfe018e41ea18cbfda7faa262e7)
