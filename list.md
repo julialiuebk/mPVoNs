@@ -168,3 +168,4 @@
 - [超应用Super‑App内置原生Agent，C端产品交互重构](https://github.com/julialiuebk/mPVoNs/commit/801d7c096b8b5823a3f503278b27609211a28fe0)
 - [GitHub 可复用开源工程库 完整实现附带本地环境搭建演示](https://github.com/julialiuebk/mPVoNs/commit/38f082c1e35b0a0810feabaaf1a2ed68d7824563)
 - [GitHub 开源代码参考仓库 完整工程与落地使用手册](https://github.com/julialiuebk/mPVoNs/commit/bad70fb12e944ff4ab982770ab6ce931cd7b57dd)
+- [老年人金融防骗针对中老年投资理财骗局盘点](https://github.com/julialiuebk/mPVoNs/commit/4e8663c085e707babf4a943a326761ebc32ca2a4)
