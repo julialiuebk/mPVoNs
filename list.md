@@ -89,3 +89,4 @@
 - [开源技术文档补充虚拟机容器环境适配教程](https://github.com/julialiuebk/mPVoNs/commit/f5a1efdc3874d0fa7ddc853f2ca2c48b23845444)
 - [私募股权市场退出回暖IPO与并购成为主要退出渠道](https://github.com/julialiuebk/mPVoNs/commit/b4362077574f93e6a8bc7614e5ab946a72fe07e9)
 - [存款保险保障范围理财基金不在保障范围内要分清](https://github.com/julialiuebk/mPVoNs/commit/5e5357248d6256aca577a86a22b55387fb3c1eb7)
+- [网页静态资源批量下载源码 完整源码下载图片 css js](https://github.com/julialiuebk/mPVoNs/commit/27c3772f4b2e81aac3635627d9517cb7cfd7f0fa)
