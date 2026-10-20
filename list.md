@@ -112,3 +112,4 @@
 - [百万级超长上下文基座，业务真实利用率瓶颈](https://github.com/julialiuebk/mPVoNs/commit/17a731a9cd8a45989e455ba4687fa19ca8cec504)
 - [开源脚本实战项目库 源码资源含本地环境适配排错教程](https://github.com/julialiuebk/mPVoNs/commit/a118bc040fabc6200fd2508d07edcf540c586f12)
 - [开源SBOM导出，GitHub原生SBOM信息不全](https://github.com/julialiuebk/mPVoNs/commit/4073ed0820098600a8217f18b6279bfd6a4e8b5f)
+- [存款搬家趋势延续银行存款持续流向基金理财等产品](https://github.com/julialiuebk/mPVoNs/commit/4e53dc26a3a6e23d94445c5bedccd0aa7be4674e)
