@@ -199,3 +199,4 @@
 - [事件驱动架构，异步业务带来调试排错复杂度](https://github.com/julialiuebk/mPVoNs/commit/6b83e810959e71061b3d254338350854ec6cec45)
 - [网关层鉴权限流源码 完整源码网关统一拦截校验逻辑](https://github.com/julialiuebk/mPVoNs/commit/c561fd420ab23121c8ccedff46edc3343aeca415)
 - [sqlite加密解密工具，处理sqlite数据库加密解密操作](https://github.com/julialiuebk/mPVoNs/commit/479f18f96e0e8877b822dc00c0ae0b63449a1d9c)
+- [保险行业中报整体业绩出炉，寿险财险业务表现出现分化](https://github.com/julialiuebk/mPVoNs/commit/3db2537ca1caf0c56a97bdfde1b1774218abce63)
