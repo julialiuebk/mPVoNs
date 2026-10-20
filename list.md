@@ -50,3 +50,4 @@
 - [开源模型商业化，权重分发许可合规风险](https://github.com/julialiuebk/mPVoNs/commit/3790e32d477d0b88c09a4cfe7312633761582bfa)
 - [CI条件判断写错，高危任务在PR分支意外执行](https://github.com/julialiuebk/mPVoNs/commit/a2cd5c5549a94168e682476b58647b17ae28bcc1)
 - [开源技术文档把关键参数解释写在代码上方](https://github.com/julialiuebk/mPVoNs/commit/81712939701a6ac7c465bcf73fd885c5df2eb605)
+- [高标准农田建设管护存在哪些漏洞](https://github.com/julialiuebk/mPVoNs/commit/d4e5e14be531868292955ef7030fd1818360545e)
