@@ -141,3 +141,4 @@
 - [配置文件差异对比工具，高亮展示两份配置文件差异内容](https://github.com/julialiuebk/mPVoNs/commit/3ce865ae90288ad44d755d0c73207d25cc8f1017)
 - [Markdown 文档避免整页都是代码缺少文字叙述](https://github.com/julialiuebk/mPVoNs/commit/76d8a7f77ad0b4746ebf082baab832a51f62ba74)
 - [主权云平台建设，政企AI业务数据不出域实践](https://github.com/julialiuebk/mPVoNs/commit/71e5a2009169e77f578fcba85fdc19e92b510bfb)
+- [出行订阅模式兴起，从买车转向订阅用车](https://github.com/julialiuebk/mPVoNs/commit/7a7c2256f3443eba01c5759ee7332b52a4177b3f)
