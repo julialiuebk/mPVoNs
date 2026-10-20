@@ -118,3 +118,4 @@
 - [图片批量阴影效果生成，自定义阴影偏移透明度批量处理](https://github.com/julialiuebk/mPVoNs/commit/69ebb10ed03d3465bc13ac029ea7d0611ce7687d)
 - [国内开源项目英文文档机翻，术语翻译混乱](https://github.com/julialiuebk/mPVoNs/commit/f4d99f973802cac3c5205d351edbdb4de0013263)
 - [全民热议买黄金，追高之后谁来买单](https://github.com/julialiuebk/mPVoNs/commit/cc9cf0d804c4e383730e4d536ca0f520a8b8ed9e)
+- [数字普惠金融，在便利的同时也要防范小微借贷风险](https://github.com/julialiuebk/mPVoNs/commit/15f6228024a72de535b7c87489582383538ffc5f)
