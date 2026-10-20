@@ -64,3 +64,4 @@
 - [github pr draft草稿状态批量检测，批量识别草稿pr清单](https://github.com/julialiuebk/mPVoNs/commit/1731ebe88f9c0ade633294651b58609e9855785c)
 - [Agent任务抢占调度，紧急业务优先执行策略](https://github.com/julialiuebk/mPVoNs/commit/1c340411d2e48d85ddc1d9c0624892feca79f0b8)
 - [TCP 长连接保活开源工程 完整源码心跳检测维持连接存活](https://github.com/julialiuebk/mPVoNs/commit/52d55d901524891ad1c2b839553c8c3e4f476dac)
+- [面向后端工程师开源资源 完整实现附带本地踩坑处理文档](https://github.com/julialiuebk/mPVoNs/commit/54d4cbce02bef6fd1b92e58ab443705811c1ae98)
