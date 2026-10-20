@@ -187,3 +187,4 @@
 - [长期资金持续入市，不存在稳赚不赔的投资](https://github.com/julialiuebk/mPVoNs/commit/373598e9132a26c27e2aeb6a6cff17a4c56e2ecc)
 - [GitHub仓库License SPDX合规检测脚本](https://github.com/julialiuebk/mPVoNs/commit/4c79c5ae59edb28406e4e1ff919934a5951f2686)
 - [边缘离线智能，断网状态Agent业务持续运行](https://github.com/julialiuebk/mPVoNs/commit/512ec07ee9b9437eb65bb829fc13bc0cc74085b0)
+- [农村集体经营性建设用地入市给农民带来哪些收益](https://github.com/julialiuebk/mPVoNs/commit/a16c76a5454ebe5877ad4390355d627eb3a69bb0)
