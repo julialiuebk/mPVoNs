@@ -184,3 +184,4 @@
 - [农村宅基地盘活改革闲置农房发展民宿农家乐路径](https://github.com/julialiuebk/mPVoNs/commit/bf8fb70d8ffeeb0c1009b27ad2fb17a3c48c6299)
 - [自然语言驱动数据库，自然语言转存储过程](https://github.com/julialiuebk/mPVoNs/commit/1a32d0325e299c1d67dd8a30969e9835a0349d90)
 - [城市机动车停车难多元破解思路](https://github.com/julialiuebk/mPVoNs/commit/1d589a5f4c262a5fb7de0fb9fc8bd214f76d8d47)
+- [长期资金持续入市，不存在稳赚不赔的投资](https://github.com/julialiuebk/mPVoNs/commit/373598e9132a26c27e2aeb6a6cff17a4c56e2ecc)
