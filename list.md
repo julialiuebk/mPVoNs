@@ -180,3 +180,4 @@
 - [http接口录播放工具，录制接口请求本地回放模拟服务](https://github.com/julialiuebk/mPVoNs/commit/e2a53716e4d50e64132be0bac5a866533ad7f3d1)
 - [GPU机密计算，显存内数据加密隔离落地坑点](https://github.com/julialiuebk/mPVoNs/commit/9777b16ad3cd113284947fb45fcd186f52c1cc37)
 - [养老信托产品普及，高净值家庭养老财产规划](https://github.com/julialiuebk/mPVoNs/commit/2c6723c935db7fd4063c7a425a9522c697d7067d)
+- [合成生物食品商业化发展](https://github.com/julialiuebk/mPVoNs/commit/e1ba4d88622cbdf051ddcde16f84dd85815fd4c9)
