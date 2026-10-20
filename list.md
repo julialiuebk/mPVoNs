@@ -56,3 +56,4 @@
 - [音频音频采样位深转换，批量转换音频16bit 24bit位深](https://github.com/julialiuebk/mPVoNs/commit/c0eded1a179382d838c5330a5392eb3119508744)
 - [数字孪生工业落地，采集数据质量差效果打折扣](https://github.com/julialiuebk/mPVoNs/commit/fccbf5ed576a98ec98bc7d301a35a77f3efc65c1)
 - [端云协同RAG分层架构，端侧检索云端生成调优](https://github.com/julialiuebk/mPVoNs/commit/37fba73c8cfda4f51b94445399b2c7e0b96808d6)
+- [github仓库模板仓库模板变量解析，解析模板仓库yaml变量定义](https://github.com/julialiuebk/mPVoNs/commit/fbac9ce93de18dc21873b709d3d2d630e081cb63)
