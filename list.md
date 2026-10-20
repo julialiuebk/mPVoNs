@@ -182,3 +182,4 @@
 - [养老信托产品普及，高净值家庭养老财产规划](https://github.com/julialiuebk/mPVoNs/commit/2c6723c935db7fd4063c7a425a9522c697d7067d)
 - [合成生物食品商业化发展](https://github.com/julialiuebk/mPVoNs/commit/e1ba4d88622cbdf051ddcde16f84dd85815fd4c9)
 - [农村宅基地盘活改革闲置农房发展民宿农家乐路径](https://github.com/julialiuebk/mPVoNs/commit/bf8fb70d8ffeeb0c1009b27ad2fb17a3c48c6299)
+- [自然语言驱动数据库，自然语言转存储过程](https://github.com/julialiuebk/mPVoNs/commit/1a32d0325e299c1d67dd8a30969e9835a0349d90)
