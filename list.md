@@ -49,3 +49,4 @@
 - [财产性收入增收，普通家庭多元化理财渠道](https://github.com/julialiuebk/mPVoNs/commit/65448b339fcf91149e1b516d8d1114e25fd94c3a)
 - [开源模型商业化，权重分发许可合规风险](https://github.com/julialiuebk/mPVoNs/commit/3790e32d477d0b88c09a4cfe7312633761582bfa)
 - [CI条件判断写错，高危任务在PR分支意外执行](https://github.com/julialiuebk/mPVoNs/commit/a2cd5c5549a94168e682476b58647b17ae28bcc1)
+- [开源技术文档把关键参数解释写在代码上方](https://github.com/julialiuebk/mPVoNs/commit/81712939701a6ac7c465bcf73fd885c5df2eb605)
