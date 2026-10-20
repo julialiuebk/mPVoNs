@@ -177,3 +177,4 @@
 - [青年慢就业现象，躺平与择业现实困境](https://github.com/julialiuebk/mPVoNs/commit/c0bb16e72b646dfe018e41ea18cbfda7faa262e7)
 - [简易权限控制开源 Demo 完整源码实现角色权限判断逻辑](https://github.com/julialiuebk/mPVoNs/commit/4911390afb2c78e3c6757316594a9dc7617acba0)
 - [外部环境不确定性，会持续扰动国内经济预期](https://github.com/julialiuebk/mPVoNs/commit/1a8397c13c05e8955a0ccb0d5038b04b1e8704b2)
+- [http接口录播放工具，录制接口请求本地回放模拟服务](https://github.com/julialiuebk/mPVoNs/commit/e2a53716e4d50e64132be0bac5a866533ad7f3d1)
