@@ -58,3 +58,4 @@
 - [端云协同RAG分层架构，端侧检索云端生成调优](https://github.com/julialiuebk/mPVoNs/commit/37fba73c8cfda4f51b94445399b2c7e0b96808d6)
 - [github仓库模板仓库模板变量解析，解析模板仓库yaml变量定义](https://github.com/julialiuebk/mPVoNs/commit/fbac9ce93de18dc21873b709d3d2d630e081cb63)
 - [正则捕获组结果导出csv，批量把正则捕获结果输出csv表格](https://github.com/julialiuebk/mPVoNs/commit/342402d742ee1e566fb9f42d78e846c531d29756)
+- [开源项目简历化，刷Star刷贡献成为求职包装手段](https://github.com/julialiuebk/mPVoNs/commit/11adfc09f2438d19789125df3a39b825d408ca39)
