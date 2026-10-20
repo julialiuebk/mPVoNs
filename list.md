@@ -130,3 +130,4 @@
 - [资本扎堆商业航天，盈利兑现还需要很多年](https://github.com/julialiuebk/mPVoNs/commit/ae85b93010ca07fae0f768b32fe90975d5ad4d22)
 - [测试环境一键部署开源源码库 源码资源配套环境初始化脚本](https://github.com/julialiuebk/mPVoNs/commit/db1279287493d782038437ba39ada710319166ef)
 - [乡村数字政务下沉，基层办事效率与隐私风险](https://github.com/julialiuebk/mPVoNs/commit/36084742d24d4e590221cb1c527b9f13375a5835)
+- [ZK零知识证明校验推理输出，可信验证局限](https://github.com/julialiuebk/mPVoNs/commit/926817004577389439bc5c4055709ee1811bac5b)
