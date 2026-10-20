@@ -128,3 +128,4 @@
 - [装饰器模式 Demo 完整源码不修改源码扩展对象功能](https://github.com/julialiuebk/mPVoNs/commit/acd76bad4b4d3c3413f30f89d88f6a5bc68d3f3d)
 - [车载Agent安全约束，驾驶场景高危操作拦截](https://github.com/julialiuebk/mPVoNs/commit/64e97dafb27c6a90c4b29a862d79e97ef302aabd)
 - [资本扎堆商业航天，盈利兑现还需要很多年](https://github.com/julialiuebk/mPVoNs/commit/ae85b93010ca07fae0f768b32fe90975d5ad4d22)
+- [测试环境一键部署开源源码库 源码资源配套环境初始化脚本](https://github.com/julialiuebk/mPVoNs/commit/db1279287493d782038437ba39ada710319166ef)
