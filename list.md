@@ -125,3 +125,4 @@
 - [Dependabot分组更新依赖，减少大量零散PR](https://github.com/julialiuebk/mPVoNs/commit/18c4ddd723e4f3bcca5c577b776df58771c8d38e)
 - [docx文档图片压缩降分辨率，批量降低word内嵌图片分辨率](https://github.com/julialiuebk/mPVoNs/commit/f4f30ecd1b9974abbaa2037cda3eea9218136618)
 - [灵活用工平台打工个人需要自己申报个税吗](https://github.com/julialiuebk/mPVoNs/commit/767b6e39b5fd883748dd2b4cca6869d370c4e52e)
+- [装饰器模式 Demo 完整源码不修改源码扩展对象功能](https://github.com/julialiuebk/mPVoNs/commit/acd76bad4b4d3c3413f30f89d88f6a5bc68d3f3d)
