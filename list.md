@@ -114,3 +114,4 @@
 - [开源SBOM导出，GitHub原生SBOM信息不全](https://github.com/julialiuebk/mPVoNs/commit/4073ed0820098600a8217f18b6279bfd6a4e8b5f)
 - [存款搬家趋势延续银行存款持续流向基金理财等产品](https://github.com/julialiuebk/mPVoNs/commit/4e53dc26a3a6e23d94445c5bedccd0aa7be4674e)
 - [GitHub仓库Action缓存清理批量处理脚本](https://github.com/julialiuebk/mPVoNs/commit/16356c1a46c71bd3787ce4a04697094e9ec5cd3c)
+- [Gitee Pages 自定义域名证书过期对爬虫的影响](https://github.com/julialiuebk/mPVoNs/commit/dc269da51f15504eff84c9cecc2cc529db92d591)
